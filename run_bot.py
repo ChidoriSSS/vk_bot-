@@ -2,7 +2,7 @@ import vk_api
 from vk_api.longpoll import VkLongPoll, VkEventType
 import json
 import random
-#яписитьхочу
+
 # Токен ВК бота
 VK_TOKEN = 'vk1.a.Dc4z0Py3pdKK9ZM_8G3RpTEUrJa-6_4VEfjj_zuf3lEo_T3r5BAMZEcAYUB0-uORHYR-tYGS6Xj9fUjDI72sC9CwPfK0HmRiu3h6aEKe6HJF3bYnxYOah4r6Y_6qBIFBCz7Pa4DzHn0-_Ack9yi3zI41Xb6bk0Cb0eEtryiTRkL7agmhP4Xft2mjy9e4Bbp-yVFviDJbu-NRHZCzHHPAjg'
 
